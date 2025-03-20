@@ -1,0 +1,12 @@
+
+.bg{
+    background-image: url("../assets/hero.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.hero{
+    background-color: rgba(7, 7, 61, 0.696);
+    
+    height: 100vh;
+}
